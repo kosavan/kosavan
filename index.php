@@ -22,7 +22,7 @@
 define( 'WHITEDOMAIN', 'https://kosavan.notion.site/c4814d7ecdca4d0dbc8f6f0800cfa8d0' );	// Domain of your white site for proxy-based work
 define( 'WHITEMAP', 'https://notion.so/sitemap.xml' );	// Path to sitemap file of your white domain, required for good proxy
 define( 'WHITEHTTPS', true );	// Use HTTPS connection to white site
-#define( 'WHITEREDIR', true );	// Set true for redirect mode of white site
+define( 'WHITEREDIR', true );	// Set true for redirect mode of white site
 #define( 'BLACKDOMAIN', 'site.com' );	// Domain of your black site, required for cloaking
 #define( 'BLACKHTTPS', true );	// Use HTTPS connection to black site
 #define( 'BLACKREDIR', true );	// Set true for redirect mode of black site
