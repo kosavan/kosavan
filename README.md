@@ -1,5 +1,5 @@
 # 💫 About Me:
-Now, Data Analyst in SBER. Currently working on some pet-projects on python for myself
+Now Data Analyst in SBER. Currently working on some pet-projects on python for myself
 
 
 ## 🌐 Socials:
